@@ -3,7 +3,7 @@
 $username = 'mike';
 $password = 'tsou';
 
-$ch = curl_init("../lock/lock.php");
+$ch = curl_init("../lock/locked.php");
 curl_setopt( $ch, CURLOPT_ENCODING, "UTF-8" );
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 curl_setopt($ch, CURLOPT_HEADER, 0);
