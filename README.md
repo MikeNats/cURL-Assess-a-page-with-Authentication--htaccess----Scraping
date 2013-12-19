@@ -7,5 +7,5 @@ Using CURL do the following:
 
 Steps: 
 - In root goes the unlock.php 
-- Create a folder lock in the root and include the rest of the files.
-- Creating htacces and htpasswd use this tutorial : http://www.htaccesstools.com/htaccess-authentication/
+- Create a folder  in the root with name "lock" and include the rest of the files.
+- The htacces and htpasswd was produced with the following  : http://www.htaccesstools.com/htaccess-authentication/ and added in a joomla .htaccess
